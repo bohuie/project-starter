@@ -1,4 +1,4 @@
-# project-starter
+# Project-Starter
 Please use the provided folder structure for your project. You are free to organize any additional internal folder structure as required by the project. 
 
 ```
